@@ -1,0 +1,346 @@
+.srelacionados article img {
+		height: auto!important;
+	}
+	.heading-archive {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		color: #cd0606;
+	}
+	.content {
+		overflow: hidden;
+	}
+	.sbox {
+		padding: 0px!important;
+	}
+	#episodes {
+		padding: 10px!important;
+	}
+
+	.nav-link {
+		color: white;
+		text-transform: capitalize;
+	}
+	.nav > li > a:focus, .nav > li > a:hover {
+		background: transparent;
+	}
+	#header, #le_header_ads, #dt_background, .le_notice, .title i, #dlink i, #download a i, #comments, footer, .contenido, .search_page_form, .dt_social_single {
+		display: none!important;
+	}
+	#contenedor h1 {
+		margin-bottom: 15px!important;
+		position: relative;
+	}
+	.dooplay_player .play {
+		border-radius: 0px;
+		left: 0px;
+	}
+	.content {
+		width: 100%!important;
+		max-width: 100%!important;
+		padding:10px;
+	}
+	.dooplay_player .options {
+		background: black;
+	}
+	.dooplay_player .options ul {
+		width: 25%!important;
+
+	}
+	.dooplay_player .options ul li {
+		width: 100%!important;
+		margin: 0px!important;
+	}
+	.dooplay_player .options ul li span.title {
+		margin: 0px!important;
+		padding: 10px!important;
+		text-align: center;
+		width: 100%;
+	}
+	.srelacionados article {
+		position: relative;
+	}
+	.srelacionados article .data {
+		margin-left: 5px;
+		margin-right: 5px;
+		width: 94.5%;
+	}
+	.title::after {
+		border-top: 0px;
+	}
+
+	.linktabs {
+		background: #cd0606;
+		margin-top: -2px;
+	}
+	.linktabs h2 {
+		width: 100%;
+	}
+	#download {
+		background: black!important;
+	}
+	.movie-home {
+		margin-top: 50px;
+	}
+	.data, .data a, .data h1 {
+		color: black!important;
+	}
+	.data {
+		height: auto!important;
+	}
+	.data h2 {
+		padding: 10px !important;
+	}
+	.server_title {
+		color: white;
+	}
+	.sbox h1, .sbox h2, .top-imdb-list h3 {
+		color: #fff;
+		background: #cd0606;
+		padding: 10px;
+		width: 100%;
+		display: flex;
+	}
+	.featured {
+		margin: -10px;
+	}
+	.content header h2, .content header h1 {
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.s_trending a {
+		margin-left: 15px;
+	}
+	.content header {
+		margin-bottom: 10px;
+		width: 100%;
+	}
+	.content header a {
+		color: white;
+	}
+	.top-imdb-item {
+		height: 230px;
+		margin: 10px;
+	}
+	.home article .poster, .search-page article {
+		position: relative;
+	}
+	.home article, .top-imdb-item {
+		width: 14.28%;
+		float: left;
+		position: relative;
+		padding: 10px;
+	}
+	.search-page {
+		overflow: hidden;
+	}
+	.top-imdb-item, .search-page article {
+		width: 14.83%;
+	}
+	.home article a, .top-imdb-item a {
+		position: absolute;
+		top: 0px!important;
+		bottom: 0px;
+		width: 100%;
+		z-index: 9999;
+		left: 0px;
+		text-align: center;
+		margin-top: 5px;
+	}
+	.home article .data a, .top-imdb-item a, .search-page article a {
+		color: white!important;
+	}
+	.top-imdb-item a, .search-page article a {
+		font-size: 12px;
+	}
+	.tright h3 {
+		margin-top: 30px;
+	}
+	.home article .rating, .top-imdb-item .rating, .search-page .rating {
+		position: absolute;
+		top: 10px;
+		left: 10px;
+		background: white;
+		padding: 3px 5px;
+		border-radius: 3px;
+		font-size: 11px;
+		font-weight: bold;
+		color: black;
+	}
+	.home article .quality, .top-imdb-item .quality {
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		background: orange;
+		padding: 3px 5px;
+		color: white;
+		font-size: 11px;
+		font-weight: bold;
+		border-radius: 3px;
+	}
+	.home article img{
+		width: 100%;
+		height: 200px!important;
+	}
+	.search-page article img {
+		width: 100%;
+		height: 220px!important;
+	}
+	.top-imdb-item img {
+		width: 100%;
+		height: 230px!important;
+	}
+	.search-page article {
+		height: 220px;
+		padding: 0px;
+		margin: 10px;
+	}
+	.search-page article img {
+		background:transparent;
+		padding: 0px;
+	}
+	.home article .dfeatur, .home article .data, .top-imdb-item .title, .search-page .title  {
+		position: absolute;
+		left: 0px;
+		background: #000000ad;
+		padding: 10px !important;
+		text-align-last: center;
+		width: 100%;
+		height: 50px !important;
+		bottom: -5px;
+		z-index: 99999;
+		color: white;
+	}
+	.top-imdb-item .title  {
+		height: 60px !important;
+	}
+	.home article .featu, .top-imdb-item .featu {
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		background: orange;
+		padding: 3px 5px;
+		border-radius: 3px;
+		font-size: 11px;
+		font-weight: bold;
+		color: white;
+	}
+	.pagination span.current {
+		color: #fff!important;
+		background: #016fb9;
+		font-weight: 500;
+	}
+	.pagination a, .pagination span {
+		padding: 6px 12px;
+		margin: 0 5px;
+		border-radius: 3px;
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		float: left;
+		font-size: 14px;
+	}
+	.pagination {
+		float: left;
+		width: 100%;
+		padding: 5px;
+		margin-top: 45px;
+		font-size: 14px;
+		text-align: center;
+	}
+	.center {
+		display: inline-block;
+	}
+	.pnumb {
+		color: #fff!important;
+		background-color: #000!important;
+		cursor: not-allowed;
+	}
+	.pagination a, .episodiotitle {
+		background: #eee!important;
+		color: #000;
+	}
+	.pagination a:hover, .episodiotitle:hover {
+		background: #016fb9!important;
+		color: #fff;
+	}
+	.se-q .title {
+		color: #000!important;
+		font-weight: bold!important;
+	}
+	#seasons .se-c .se-q {
+		background: rgb(220 241 255)!important;
+	}
+	.resppages {
+		display: none!important;
+	}
+
+	@media only screen and (max-width: 600px) {
+		h2 {
+			margin-top: 0px !important;
+			font-size: 16px;
+		}
+		.content header {
+			display: block!important;
+			text-align: center;
+		}
+		.see-all {
+			margin-top: 10px;
+			display: block;
+			text-align: center;
+		}
+		.home article {
+			width: 50%;
+		}
+		.top-imdb-item {
+			width: 43%;
+		}
+		.search-page .result-item {
+			width: 50%;
+			display: inline-flex;
+			overflow: hidden;
+		}
+		.search-page .result-item article {
+			width: 100%;
+		}
+		.top-imdb-item img {
+			height: 190px!important;
+		}
+		.home article img {
+			height: 240px!important;
+		}
+		.home article .data a, .top-imdb-item a, .search-page article a, .relacionados h3 {
+			color: white !important;
+			font-size: 11px;
+		}
+		.fixheadresp, .resppages {
+			display: none;
+		}
+		#contenedor {
+			width: 100%;
+			padding: 12px 6px 6px 6px;
+			margin: 20px auto 0;
+		}
+		#playeroptions ul {
+			display: block!important;
+			width: 100%!important;
+			padding: 0px 10px;
+			border-bottom: 0px !important;
+		}
+		.server_title {
+			float: inherit!important;
+			text-align: center;
+			display: block !important;
+			width: 100%;
+		}
+		#playeroptions {
+			padding-bottom: 20px;
+		}
+		.iklan-banner {
+			margin-top: 9px;
+		}
+		.movie-home, #contenedor {
+			margin-top: 20px!important;
+		}
+		.sheader .poster img {
+			width: 50%!important;
+		}
+	}

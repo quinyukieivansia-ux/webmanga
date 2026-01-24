@@ -1,0 +1,117 @@
+#main-menu, header, .searchx, .srcmob, .notifications, .thememode, .shme, .slider-wrapper, .headerni, .blox, #teaserbottom, .headpost, .socialts, .chnav, .kln, .bixbox , #footer {
+        display: none!important;
+    }
+    .chaptertags {
+        padding: 10px!important;
+    }
+    .flex-wrap {
+        flex-wrap: inherit!important;
+    }
+    .header-manga {
+        display: block!important;
+        width: 100%;
+    }
+    .header-manga .bi {
+        height: revert-layer!important;
+    }
+
+    .limit img {
+        width: 100%!important;
+        height: 249px!important;
+    }
+    .tt {
+        color: white;
+        font-size: .95em;
+        margin: 8px 0;
+        margin-bottom: 3px;
+        font-weight: 600;
+        line-height: 20px;
+        text-align: left;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+    }
+    .epxs {
+        color: #555;
+    }
+    .rtb span:before {
+        content: "\f005\f005\f005\f005\f005";
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        top: 0;
+        position: absolute;
+        left: 0;
+        color: yellow;
+    }
+    .rtb:before {
+        content: "\f005\f005\f005\f005\f005";
+        font-family: "Font Awesome 5 Free";
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #686868;
+        height: 15px;
+    }
+    .rtb span {
+        overflow: hidden;
+        top: 0;
+        left: 0;
+        position: absolute;
+        padding-top: 15px
+    }
+    .rtb {
+        position: relative;
+        overflow: hidden;
+        color: #ffc700;
+        height: 15px;
+        line-height: 1;
+        width: 85px;
+        font-size: 15px;
+        margin: 0 auto
+    }
+    .rt {
+        margin-top: 10px;
+    }
+    .rtp
+    {
+        overflow: hidden;
+        display: inline-block;
+        float: left;
+
+    }
+    .numscore {
+        display: block;
+        font-size: 13px;
+        line-height: normal;
+        font-style: italic;
+        color: #999;
+        overflow: hidden;
+        padding-left: 5px;
+        margin-top: 1px;
+    }
+    .bs {
+        margin-bottom:10px;
+    }
+    
+    #content {
+        padding-bottom: 0px!important;
+    }
+    li ul li a {
+            color: black!important;
+        }
+    @media only screen and (max-width: 600px) {
+        ul li ul {
+            left: -15px!important;
+        }
+        .menu-resp {
+            position: relative;
+            display: contents !important;
+        }
+        .logo-resp {
+            text-align: center;
+            display: block !important;
+        }
+
+    }
