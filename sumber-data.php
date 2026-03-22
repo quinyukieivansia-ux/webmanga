@@ -1,5 +1,5 @@
 <?php 
-$sumber_data = "https://kiryuu03.com"; // Website Target / Sumber Data
+$sumber_data = "https://v1.kiryuu.to"; // Website Target / Sumber Data
 
 // $sumber_data = "https://filmapik.lat";
 

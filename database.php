@@ -12,7 +12,7 @@ $nama_website = "BACA MANGA TERLENGKAP"; // Judul Website / Nama Website
 
 // $domain = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]";
 // echo $domain;
-$domain = "http://localhost/manga3"; // Ganti dengan domain Anda yang akan digunakan
+$domain = "https://mangaserver.playall.me"; // Ganti dengan domain Anda yang akan digunakan
 
 
 
@@ -23,7 +23,7 @@ $domain = "http://localhost/manga3"; // Ganti dengan domain Anda yang akan digun
 
 // Jika mau tambah banner lebih dari dua bisa tambahkan scrept ini << array("","banner-800x200px.jpg"), >> dibawah array
 $banner_iklan_kiri = array(
-	array("https://kripikbalado.store/boskop", "banner-800x90px.jpg"), 
+	array("","banner-800x90px.jpg"), 
 	array("","banner-800x200px.jpg"),
 );
 
@@ -36,7 +36,7 @@ $banner_iklan_kiri = array(
 
 // Jika mau tambah banner lebih dari dua bisa tambahkan scrept ini << array("","banner-800x200px.jpg"), >> dibawah array
 $banner_iklan_kanan = array(
-	array("https://kripikbalado.store/bioskop", "banner-800x90px.jpg"), 
+	array("","banner-800x90px.jpg"), 
 	array("","banner-800x200px.jpg"),
 );
 

@@ -14,6 +14,7 @@ $url = str_replace($domain.'/play/', $sumber_data.'/manga/', $actual_link);
 
 $context = stream_context_create([
     'http' => [
+        'timeout' => 10,
         'header' => 
         "User-Agent: Mozilla/5.0\r\n" .
         "Accept: text/html\r\n" .
